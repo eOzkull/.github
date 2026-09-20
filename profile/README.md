@@ -34,6 +34,10 @@
   <a href="https://instagram.com/weareeozka" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:eozka.hq@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <p align="center">
   <a href="https://eozka.com" target="_blank">
     <img src="https://img.shields.io/badge/Official_Website-eozka.com-%23d4b23c?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=%23211a57" alt="Official Website" />
@@ -53,6 +57,8 @@
   <img src="./Assets/eOzka-Monogram.svg" width="200" alt="eOzka Student Founded" />
   <br/>
   <sub><i><b>Managed by the eOzka Engineering Team.</b></i></sub>
+  <br/>
+  <sub><i>Contact us at <a href="mailto:eozka.hq@gmail.com">eozka.hq@gmail.com</a></i></sub>
 </p>
 
 
